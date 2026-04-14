@@ -3,6 +3,9 @@
 <br/>
 
 # مترجم الأحاسيس
+<img width="1408" height="768" alt="Gemini_Generated_Image_thhmtnthhmtnthhm" src="https://github.com/user-attachments/assets/e590c23e-2aa6-4445-a1b4-5eefa0d76e66" />
+
+
 ### Emotion Translator — Assistive AI for Non-Verbal Children
 
 <br/>

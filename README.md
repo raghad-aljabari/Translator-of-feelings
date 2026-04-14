@@ -12,9 +12,8 @@
 
 ![Platform](https://img.shields.io/badge/LEGO_SPIKE_Prime-E63946?style=for-the-badge&logoColor=white)
 ![Language](https://img.shields.io/badge/MicroPython-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Camera](https://img.shields.io/badge/HuskyLens_AI-34D399?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-7C6AFA?style=for-the-badge)
-![Competition](https://img.shields.io/badge/International_Competition_2025-FFD700?style=for-the-badge)
+![Competition](https://img.shields.io/badge/International_Competition_2026-FFD700?style=for-the-badge)
 
 <br/>
 
@@ -226,7 +225,7 @@ while True:
 
 ## المسابقة
 
-هذا المشروع مقدَّم في إطار المسابقات الدولية للابتكار التقني 2025، في فئة الحلول الإنسانية المدعومة بالذكاء الاصطناعي.
+هذا المشروع مقدَّم في إطار المسابقات الدولية للابتكار التقني2026، في فئة المفتوحة.
 
 <br/>
 
